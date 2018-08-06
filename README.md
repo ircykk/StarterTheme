@@ -6,7 +6,7 @@ Fork of [PrestaShop Starter Theme](https://github.com/PrestaShop/StarterTheme) w
 # in _dev folder
 $ npm install
 
-# for development (sourcempas etc.)
+# for development (sourcemaps etc.)
 $ npm run watch
 
 # for production
